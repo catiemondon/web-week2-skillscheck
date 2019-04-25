@@ -29,9 +29,7 @@ h4{
     
 }
 
-h2 .blackcontainer{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
+
 .blackcontainer{
     width: 100%;
     height: 30vh;
@@ -54,8 +52,8 @@ h2 .blackcontainer{
     align-items: center;
 }
 .tealbox{
-    width: 20%;
-    height: 60%;
+    width: 20vw;
+    height: 28vh;
     background-color:#A0F5D7;
     border-radius: 16px;
 }
